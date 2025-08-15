@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/greetingpage/static/css/main.f3e9e216.css",
-    "main.js": "/greetingpage/static/js/main.221a5d5d.js",
+    "main.css": "/greetingpage/static/css/main.6e225d69.css",
+    "main.js": "/greetingpage/static/js/main.b8b3b82f.js",
     "static/media/dance.png": "/greetingpage/static/media/dance.fdb2f89703c9bd1c4f1e.png",
+    "static/media/kanha3.png": "/greetingpage/static/media/kanha3.220c8f50f67a1a8572a4.png",
+    "static/media/kanha5.png": "/greetingpage/static/media/kanha5.cd0caa722b5382d3709d.png",
+    "static/media/kanha2.png": "/greetingpage/static/media/kanha2.a768437eefc0c5d415d1.png",
     "static/media/music2.mp3": "/greetingpage/static/media/music2.1c98b59318e33b8c6744.mp3",
     "static/media/music4.mp3": "/greetingpage/static/media/music4.002734cd2eee6f9fb546.mp3",
     "static/media/music.mp3": "/greetingpage/static/media/music.23e6161edc8b8262e316.mp3",
     "static/media/music5.mp3": "/greetingpage/static/media/music5.23e6161edc8b8262e316.mp3",
     "static/media/music3.mp3": "/greetingpage/static/media/music3.4c8685b3ac4176eb8f6d.mp3",
+    "static/media/kanha4.png": "/greetingpage/static/media/kanha4.5efd04c4362d416fce6d.png",
+    "static/media/kanha1.png": "/greetingpage/static/media/kanha1.b3dcc244cc8d16f9b806.png",
     "static/media/kanha.png": "/greetingpage/static/media/kanha.03bbffd63ffdda481722.png",
     "static/media/flute.png": "/greetingpage/static/media/flute.2c95655ce46470b2719a.png",
     "index.html": "/greetingpage/index.html",
-    "main.f3e9e216.css.map": "/greetingpage/static/css/main.f3e9e216.css.map",
-    "main.221a5d5d.js.map": "/greetingpage/static/js/main.221a5d5d.js.map"
+    "main.6e225d69.css.map": "/greetingpage/static/css/main.6e225d69.css.map",
+    "main.b8b3b82f.js.map": "/greetingpage/static/js/main.b8b3b82f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3e9e216.css",
-    "static/js/main.221a5d5d.js"
+    "static/css/main.6e225d69.css",
+    "static/js/main.b8b3b82f.js"
   ]
 }
