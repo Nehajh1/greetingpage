@@ -4,6 +4,7 @@ import GreetingPage from "./GreetingPage";
 import MusicPage from "./MusicPage";
 import HandiPage from "./HandiPage";
 import DancePage from "./DancePage";
+import Kanha from "./kanha";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Route path="/MusicPage" element={<MusicPage />} />
          <Route path="/dahi-handi" element={<HandiPage />} />
          <Route path="/raas-leela" element={<DancePage/>}/>
+         <Route path="/kanha" element={<Kanha/>}/>
          <Route path="*" element={<Navigate to="/" replace />} /> {/* fallback */}
       </Routes>
   );

@@ -4,6 +4,7 @@ import "./greeting.css";
 import kanha from "./assets/kanha.png"; // Place kanha.png in assets/
 
 function GreetingPage() {
+
   return (
     <div className="janmashtami-container">
       <header className="janmashtami-header">
@@ -12,7 +13,11 @@ function GreetingPage() {
       </header>
 
       <section className="janmashtami-hero">
-        <img src={kanha} alt="Lord Krishna" className="hero-image" />
+         <Link to="/kanha">
+        <img 
+        src={kanha} alt="Lord Krishna" className="hero-image"
+         />
+         </Link>
         <div className="hero-text">
           <h2>Let’s Celebrate Together!</h2>
           <p>

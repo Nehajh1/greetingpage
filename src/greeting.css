@@ -32,6 +32,10 @@
   max-width: 300px;
   border-radius: 10px;
 }
+.hero-image:hover{
+   transform: translateY(-8px);
+    background: linear-gradient(135deg, #ffecd2, #fcb69f);
+}
 
 .hero-text h2 {
   color: #8b0000;
