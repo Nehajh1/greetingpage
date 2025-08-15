@@ -1,0 +1,43 @@
+.bhajan-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.flute-image {
+  max-width: 400px;
+  width: 100%;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.flute-image:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.flute-text {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  color: #444;
+}
+
+.song-list {
+  margin-top: 2rem;
+}
+
+.song-list button {
+  margin: 0.5rem;
+  padding: 10px 15px;
+  font-size: 1rem;
+  background: linear-gradient(45deg, #ff9933, #ffcc66);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.2s ease, background 0.3s ease;
+}
+
+.song-list button:hover {
+  transform: scale(1.1);
+  background: linear-gradient(45deg, #ff6600, #ffcc00);
+}
