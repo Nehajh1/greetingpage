@@ -31,10 +31,12 @@ function GreetingPage() {
             <p>Devotional songs dedicated to Lord Krishna.</p>
           </div>
           </Link>
+          <Link to="/dahi-handi" className="festival-card">
           <div className="event-card">
             <h3>🥛 Dahi Handi</h3>
             <p>Exciting matki-breaking competition.</p>
           </div>
+          </Link>
           <div className="event-card">
             <h3>💃 Raas Leela</h3>
             <p>Traditional dance performances.</p>
