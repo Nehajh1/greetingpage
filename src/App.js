@@ -3,6 +3,7 @@ import {Route, Routes, Navigate } from "react-router-dom";
 import GreetingPage from "./GreetingPage";
 import MusicPage from "./MusicPage";
 import HandiPage from "./HandiPage";
+import DancePage from "./DancePage";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <Route path="/" element={<GreetingPage />} />
         <Route path="/MusicPage" element={<MusicPage />} />
          <Route path="/dahi-handi" element={<HandiPage />} />
+         <Route path="/raas-leela" element={<DancePage/>}/>
          <Route path="*" element={<Navigate to="/" replace />} /> {/* fallback */}
       </Routes>
   );

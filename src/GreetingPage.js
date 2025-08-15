@@ -37,10 +37,12 @@ function GreetingPage() {
             <p>Exciting matki-breaking competition.</p>
           </div>
           </Link>
+          <Link to="/raas-leela" className="festival-card">
           <div className="event-card">
             <h3>💃 Raas Leela</h3>
             <p>Traditional dance performances.</p>
           </div>
+          </Link>
         </div>
       </section>
 

@@ -1,0 +1,31 @@
+.ras-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #fff6e5, #ffd6d6);
+  padding: 20px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.ras-image {
+  max-width: 600px;
+  width: 90%;
+  border-radius: 15px;
+  border: 5px solid #d35400;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  margin-bottom: 20px;
+}
+
+.ras-story {
+  background: rgba(255,255,255,0.95);
+  padding: 25px;
+  border-radius: 15px;
+  max-width: 700px;
+  line-height: 1.8;
+  font-size: 18px;
+  color: #333;
+  text-align: justify;
+  border: 3px solid #ff9900;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+}
